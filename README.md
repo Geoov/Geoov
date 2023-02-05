@@ -8,7 +8,7 @@
 
 * 💻 I'm a full stack web developer
 * 📚 I'm curently learning <u>RabbitMQ</u>
-* 🎓 I'm a Computer Science graduated student (graduated in July 2021)
+* 🎓 I'm a graduate student in department of Computer Science
 * 🌐 Future Goals: Creating a portofolio
 
 <br />
