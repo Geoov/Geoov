@@ -9,7 +9,7 @@
 * 💻 I'm a full stack web developer
 * 📚 I'm curently learning <u>RabbitMQ</u>
 * 🎓 I'm a graduate student in department of Computer Science
-* 🌐 Future Goals: Creating a portofolio
+* 🌐 Portofolio: https://portofolio-geov.vercel.app/
 
 <br />
 
